@@ -9,7 +9,7 @@ This project aims to establish a data streaming pipeline with storage, processin
 - Hadoop for storage and backup
 - Elasticsearch and Kibana for indexing and visualization
 
-![Untitled](BigData_Project-main/Kafka, Flink, Elastic search Project 37586fa574884870a61b51a4aa7e71b8/test.jpg)
+!(BigData_Project-main/Kafka, Flink, Elastic search Project 37586fa574884870a61b51a4aa7e71b8/test.jpg)
 
 - You can also use other tools as you like or add more tools, just make sure they are in sync with each other.
 
