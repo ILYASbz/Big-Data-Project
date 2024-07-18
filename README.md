@@ -9,7 +9,7 @@ This project aims to establish a data streaming pipeline with storage, processin
 - Hadoop for storage and backup
 - Elasticsearch and Kibana for indexing and visualization
 
-!(BigData_Project-main/Kafka, Flink, Elastic search Project 37586fa574884870a61b51a4aa7e71b8/test.jpg)
+![test](https://github.com/user-attachments/assets/2c88b572-3865-4386-b6cf-a32047e76a5b)
 
 - You can also use other tools as you like or add more tools, just make sure they are in sync with each other.
 
@@ -1356,19 +1356,19 @@ This is my documentation of the project I worked on. I'm using the GitHub API, b
     - in side bar: ***Stack Management > Index Management > indices***
     - you should see the name of index written before in the code example:  **`'index' = 'my_data'`**
         
-        ![Untitled](Kafka,%20Flink,%20Elastic%20search%20Project%2037586fa574884870a61b51a4aa7e71b8/Untitled%202.png)
+     ![Untitled 2](https://github.com/user-attachments/assets/31e40a0e-a980-4308-b046-512d4ec8ff74)
         
     - navigate to ***index Patterns*** in the same level & create template with the same name of the index example : “my_data”
         
-        ![Untitled](Kafka,%20Flink,%20Elastic%20search%20Project%2037586fa574884870a61b51a4aa7e71b8/Untitled%203.png)
+     ![Untitled 3](https://github.com/user-attachments/assets/389c93ee-dbec-493b-b560-19eb5e525dce)
         
     - now inside bar navigate to ***Dashboard > Create*** you should see the index then drag & drop the columns from the left side & choose the proper data schema
         
-        ![Untitled](Kafka,%20Flink,%20Elastic%20search%20Project%2037586fa574884870a61b51a4aa7e71b8/Untitled%204.png)
+      ![Untitled 4](https://github.com/user-attachments/assets/0698171d-be97-4663-aab9-71bcb6aae035)
         
         - custom your api data & save it
         
-        ![Untitled](Kafka,%20Flink,%20Elastic%20search%20Project%2037586fa574884870a61b51a4aa7e71b8/Untitled%205.png)
+       ![Untitled 5](https://github.com/user-attachments/assets/12c06518-e6b2-4a31-82e7-398881faf66f)
         
     
 - Word count code
@@ -1496,7 +1496,7 @@ This is my documentation of the project I worked on. I'm using the GitHub API, b
     word_count_stream_processing()
     ```
     
-    ![Untitled](Kafka,%20Flink,%20Elastic%20search%20Project%2037586fa574884870a61b51a4aa7e71b8/Untitled%206.png)
+    ![Untitled 6](https://github.com/user-attachments/assets/90d2aab4-f3f5-409d-beee-02eb8a22ee26)
     
 ---
 
